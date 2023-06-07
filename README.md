@@ -1,0 +1,2 @@
+# bspwmoraa
+Entorno de bspwm
